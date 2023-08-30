@@ -1,4 +1,3 @@
-from importlib.resources import path
 import pathlib
 import pickle
 from sys import argv
