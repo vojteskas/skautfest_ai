@@ -1,2 +1,4 @@
 .venv/
 dataset/
+*.pk
+__pycache__
